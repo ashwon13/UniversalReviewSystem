@@ -1,0 +1,2 @@
+# UniversalReviewSystem
+A website that allows a user to review anything eg banks, companies, houses, neighborhoods, restuants, products and much more all in one place
